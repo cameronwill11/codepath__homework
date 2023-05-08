@@ -2,6 +2,7 @@
 
 Time spent: 2 hours spent in total
 
+<img src="screenfetch2.gif" alt="Running screenfetch">
 
 
 
